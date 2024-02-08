@@ -6,7 +6,7 @@
 #  Gradient Vector, shape n - by -  1
 #  =================================================================================
 #  Version 1.0
-#  Author: Arshad Afzal, IIT Kanpur, India
+#  Author: Arshad Afzal, GIST, South Korea
 #  https://www.researchgate.net/profile/Arshad_Afzal
 #  For Questions/ Comments, please email to arshad.afzal@gmail.com
 #  =================================================================================
