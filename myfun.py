@@ -1,5 +1,5 @@
-#  FUNCTION File: Rosenbrock Function
-#  Author: Arshad Afzal, IIT Kanpur, India
+#  FUNCTION File: Rosenbrock Function (Example)
+#  Author: Arshad Afzal, GIST, South Korea
 #  For Questions/ Comments, please email to arshad.afzal@gmail.com
 
 
